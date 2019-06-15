@@ -1,0 +1,126 @@
+topic 1 P@10=0.5
+-7.02886	/home/aayush/data/pmc/pmc-text-01/03/3079137.nxml	0	2581 R
+-7.19879	/home/aayush/data/pmc/pmc-text-00/23/2628984.nxml	0	6722
+-7.23141	/home/aayush/data/pmc/pmc-text-01/10/3023275.nxml	0	6077
+-7.28624	/home/aayush/data/pmc/pmc-text-01/31/2931372.nxml	0	3823
+-7.30541	/home/aayush/data/pmc/pmc-text-01/11/2763060.nxml	0	5918
+-7.32185	/home/aayush/data/pmc/pmc-text-03/24/3737137.nxml	0	4969 R
+-7.32733	/home/aayush/data/pmc/pmc-text-00/01/2656492.nxml	0	11687
+-7.35225	/home/aayush/data/pmc/pmc-text-00/39/1464150.nxml	0	5630 R
+-7.36429	/home/aayush/data/pmc/pmc-text-02/39/3409612.nxml	0	7786 R
+-7.39017	/home/aayush/data/pmc/pmc-text-02/25/3398654.nxml	0	5297 R
+
+topic2 P@10=0.4
+-8.68445	/home/aayush/data/pmc/pmc-text-02/07/3481717.nxml	0	4050
+-9.47062	/home/aayush/data/pmc/pmc-text-02/27/3419728.nxml	0	9184
+-9.55713	/home/aayush/data/pmc/pmc-text-02/19/3389947.nxml	0	2945 R
+-9.84855	/home/aayush/data/pmc/pmc-text-02/18/3511296.nxml	0	5714
+-9.94044	/home/aayush/data/pmc/pmc-text-02/09/3322907.nxml	0	3473 R
+-9.97875	/home/aayush/data/pmc/pmc-text-03/11/3655859.nxml	0	9270 R
+-9.98767	/home/aayush/data/pmc/pmc-text-03/12/3810764.nxml	0	2324 R
+-10.0161	/home/aayush/data/pmc/pmc-text-03/22/3850926.nxml	0	7409
+-10.0776	/home/aayush/data/pmc/pmc-text-02/33/3310457.nxml	0	1589
+-10.1182	/home/aayush/data/pmc/pmc-text-01/05/3109332.nxml	0	3670
+
+
+topic 3 P@10=0.2
+-7.30797	/home/aayush/data/pmc/pmc-text-03/03/3858775.nxml	0	2048
+-7.3396	/home/aayush/data/pmc/pmc-text-02/06/3550420.nxml	0	4222
+-7.55024	/home/aayush/data/pmc/pmc-text-01/35/3137829.nxml	0	2627
+-7.6064	/home/aayush/data/pmc/pmc-text-00/27/2700224.nxml	0	594   R 
+-7.70843	/home/aayush/data/pmc/pmc-text-02/14/3622390.nxml	0	1941
+-7.73575	/home/aayush/data/pmc/pmc-text-01/17/2780629.nxml	0	6015
+-7.78952	/home/aayush/data/pmc/pmc-text-01/35/3135375.nxml	0	3044
+-7.89953	/home/aayush/data/pmc/pmc-text-03/03/3866668.nxml	0	1983  R 
+-7.90106	/home/aayush/data/pmc/pmc-text-02/25/3395958.nxml	0	3597
+-7.94995	/home/aayush/data/pmc/pmc-text-02/05/3252790.nxml	0	8682
+
+
+topic 4 P@10 = 1
+-8.35224	/home/aayush/data/pmc/pmc-text-00/16/2526417.nxml	0	2498 R
+-8.53333	/home/aayush/data/pmc/pmc-text-01/10/3020335.nxml	0	4248 R 
+-8.61545	/home/aayush/data/pmc/pmc-text-03/12/3819680.nxml	0	4182 R
+-8.64019	/home/aayush/data/pmc/pmc-text-01/26/3232573.nxml	0	5034 R
+-8.91074	/home/aayush/data/pmc/pmc-text-00/27/2687814.nxml	0	9068 R
+-8.9419	/home/aayush/data/pmc/pmc-text-02/32/3632492.nxml	0	3237   R
+-8.95331	/home/aayush/data/pmc/pmc-text-02/32/3625593.nxml	0	2456 R 
+-9.07065	/home/aayush/data/pmc/pmc-text-02/26/3598686.nxml	0	4121 R
+-9.07625	/home/aayush/data/pmc/pmc-text-02/19/3385618.nxml	0	4173 R
+-9.15212	/home/aayush/data/pmc/pmc-text-01/26/3235783.nxml	0	2333 R
+
+
+topic 5 P@10=0.6
+-8.98462	/home/aayush/data/pmc/pmc-text-00/10/2672442.nxml	0	2716 R
+-9.44587	/home/aayush/data/pmc/pmc-text-01/06/2733966.nxml	0	2787 R
+-9.53452	/home/aayush/data/pmc/pmc-text-01/16/3064452.nxml	0	1823 R
+-9.63087	/home/aayush/data/pmc/pmc-text-03/19/3872153.nxml	0	3862
+-9.65216	/home/aayush/data/pmc/pmc-text-00/37/1310632.nxml	0	6512
+-9.76169	/home/aayush/data/pmc/pmc-text-00/27/2686960.nxml	0	2384 R
+-9.79177	/home/aayush/data/pmc/pmc-text-00/21/2727580.nxml	0	7848
+-9.79398	/home/aayush/data/pmc/pmc-text-00/10/2684304.nxml	0	4034 R
+-9.81305	/home/aayush/data/pmc/pmc-text-03/20/3677011.nxml	0	1685 R
+-9.81943	/home/aayush/data/pmc/pmc-text-01/02/3180075.nxml	0	3134
+topic 5
+
+
+topic 6 P@10=0.4
+-7.23601	/home/aayush/data/pmc/pmc-text-01/07/2831243.nxml	0	7395 R
+-7.34543	/home/aayush/data/pmc/pmc-text-03/02/3670525.nxml	0	1765 R
+-7.41357	/home/aayush/data/pmc/pmc-text-02/01/3573453.nxml	0	1510
+-7.59648	/home/aayush/data/pmc/pmc-text-01/39/2906497.nxml	0	4668 R
+-7.63131	/home/aayush/data/pmc/pmc-text-00/31/2703263.nxml	0	16795
+-7.64495	/home/aayush/data/pmc/pmc-text-02/12/3504214.nxml	0	2189
+-7.75067	/home/aayush/data/pmc/pmc-text-01/12/3042990.nxml	0	8458
+-7.76792	/home/aayush/data/pmc/pmc-text-02/37/3560169.nxml	0	2024
+-7.78822	/home/aayush/data/pmc/pmc-text-03/13/3844435.nxml	0	6359
+-7.80544	/home/aayush/data/pmc/pmc-text-03/19/3876013.nxml	0	1721 R
+
+topic 7 P@10=0.9
+
+-10.2912	/home/aayush/data/pmc/pmc-text-01/01/3147093.nxml	0	4189 R 
+-10.4245	/home/aayush/data/pmc/pmc-text-01/02/3181882.nxml	0	5329 R
+-10.5874	/home/aayush/data/pmc/pmc-text-01/38/3168091.nxml	0	1995 R
+-10.6322	/home/aayush/data/pmc/pmc-text-01/02/3181885.nxml	0	8928 R
+-10.6338	/home/aayush/data/pmc/pmc-text-01/02/3181871.nxml	0	9133 R
+-10.7796	/home/aayush/data/pmc/pmc-text-02/37/3564099.nxml	0	2225 R
+-10.9224	/home/aayush/data/pmc/pmc-text-02/12/3505368.nxml	0	8172 R
+-10.9324	/home/aayush/data/pmc/pmc-text-03/15/3709416.nxml	0	8535
+-10.9588	/home/aayush/data/pmc/pmc-text-01/00/3122544.nxml	0	2494 R
+-10.9613	/home/aayush/data/pmc/pmc-text-01/18/2865463.nxml	0	21449 R
+
+topic 8 P@10=0.7
+-8.99452	/home/aayush/data/pmc/pmc-text-01/12/3039161.nxml	0	5855 R
+-9.04711	/home/aayush/data/pmc/pmc-text-01/18/2860358.nxml	0	4001 R
+-9.32441	/home/aayush/data/pmc/pmc-text-03/08/3766118.nxml	0	3112 R
+-9.55573	/home/aayush/data/pmc/pmc-text-01/09/2777409.nxml	0	7328 R
+-9.68293	/home/aayush/data/pmc/pmc-text-03/11/3662898.nxml	0	6340
+-9.83851	/home/aayush/data/pmc/pmc-text-01/03/3087163.nxml	0	3273 R
+-9.86311	/home/aayush/data/pmc/pmc-text-01/23/2987955.nxml	0	2440 R
+-9.86696	/home/aayush/data/pmc/pmc-text-03/12/3818926.nxml	0	7499 
+-9.87251	/home/aayush/data/pmc/pmc-text-02/21/3612492.nxml	0	23794 R
+-9.90186	/home/aayush/data/pmc/pmc-text-01/03/3085069.nxml	0	1715
+
+topic 9 P@10=0.5
+-8.00274	/home/aayush/data/pmc/pmc-text-02/07/3488899.nxml	0	10174 R
+-8.28999	/home/aayush/data/pmc/pmc-text-01/05/3108518.nxml	0	6230
+-8.44077	/home/aayush/data/pmc/pmc-text-01/16/3065000.nxml	0	4950
+-8.45402	/home/aayush/data/pmc/pmc-text-03/12/3817186.nxml	0	7880 R
+-8.46104	/home/aayush/data/pmc/pmc-text-03/07/3824844.nxml	0	3778 R
+-8.47937	/home/aayush/data/pmc/pmc-text-02/03/3305835.nxml	0	7506
+-8.48702	/home/aayush/data/pmc/pmc-text-01/31/2929554.nxml	0	1744
+-8.52887	/home/aayush/data/pmc/pmc-text-00/27/2690064.nxml	0	6731 R
+-8.56907	/home/aayush/data/pmc/pmc-text-03/10/3771432.nxml	0	3325
+-8.58872	/home/aayush/data/pmc/pmc-text-02/10/3445124.nxml	0	4335 R
+
+topic 10 P@10= 1
+
+-7.52969	/home/aayush/data/pmc/pmc-text-03/02/3670530.nxml	0	1562 R
+-7.67824	/home/aayush/data/pmc/pmc-text-00/01/2667400.nxml	0	1771 R
+-7.81589	/home/aayush/data/pmc/pmc-text-01/06/2740158.nxml	0	1916 R
+-7.83901	/home/aayush/data/pmc/pmc-text-01/26/3232590.nxml	0	1902 R
+-7.86559	/home/aayush/data/pmc/pmc-text-01/15/3030049.nxml	0	1912 R
+-8.08804	/home/aayush/data/pmc/pmc-text-02/14/3617546.nxml	0	3977 R
+-8.24861	/home/aayush/data/pmc/pmc-text-02/26/3596662.nxml	0	1738 R
+-8.36179	/home/aayush/data/pmc/pmc-text-01/26/3232567.nxml	0	761  R
+-8.37224	/home/aayush/data/pmc/pmc-text-01/26/3232568.nxml	0	795 R
+-8.38895	/home/aayush/data/pmc/pmc-text-02/03/3302714.nxml	0	1907 R
